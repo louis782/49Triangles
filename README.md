@@ -1,6 +1,6 @@
 # 49Triangles
 
-Little baldi's basics mod I made for fun in 2 days based of off the other mod called -B made by bermud
+Little baldi's basics mod I made for fun in 2 days based of off another mod called -B made by bermud
 
 Also thanks to my friend for making the background song!
 
